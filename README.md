@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mongodb
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me can mail me.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: something is better than nothing.
 
 <!---
