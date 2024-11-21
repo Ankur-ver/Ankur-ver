@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankur-ver
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning mongodb
+- 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me can mail me.
 - 😄 Pronouns: He/His
